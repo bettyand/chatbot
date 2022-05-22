@@ -7,7 +7,7 @@ public class App {
     public static int userAge;
     public static int userFaveNum;
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
         greet();
         userName = in.nextLine();
